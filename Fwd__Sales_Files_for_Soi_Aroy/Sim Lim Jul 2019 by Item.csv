@@ -1,0 +1,96 @@
+Item name,SKU,Category,Items sold,Gross sales,Items refunded,Refunds,Discounts,Net sales,Cost of goods,Gross profit,Margin,Taxes
+$1 Add on,AO1,Add Ons,25.000,25.00,0.000,0.00,0.26,24.74,0.00,24.74,100.00%,0.00
+$2 Add on,AO2,Add Ons,2.000,4.00,0.000,0.00,0.00,4.00,0.00,4.00,100.00%,0.00
+$3 Add On,AO3,Add Ons,2.000,6.00,0.000,0.00,0.00,6.00,0.00,6.00,100.00%,0.00
+A1. Premium Tom Yum,A1,Spicy Mains,79.000,934.90,0.000,0.00,15.34,919.56,0.00,919.56,100.00%,0.00
+A10. Collagen Chicken Broth (Large),A10L,Non Spicy Mains,6.000,48.00,0.000,0.00,0.00,48.00,0.00,48.00,100.00%,0.00
+A10. Collagen Chicken Broth (Regular),A10R,Non Spicy Mains,83.000,500.00,1.000,6.00,1.80,492.20,0.00,492.20,100.00%,0.00
+A10. Collagen Chicken Broth (Tasting),A10T,Non Spicy Mains,14.000,42.00,0.000,0.00,0.00,42.00,0.00,42.00,100.00%,0.00
+A11. Collagen Pork Broth (Regular),A11R,Non Spicy Mains,34.000,210.00,0.000,0.00,2.40,207.60,0.00,207.60,100.00%,0.00
+A11. Collagen Pork Broth (Large),A11L,Non Spicy Mains,2.000,16.00,0.000,0.00,0.00,16.00,0.00,16.00,100.00%,0.00
+A2. Creamy Tom Yum (Tasting),A2T,Spicy Mains,16.000,48.00,0.000,0.00,0.00,48.00,0.00,48.00,100.00%,0.00
+A2. Creamy Tom Yum (Regular),A2R,Spicy Mains,141.000,854.00,0.000,0.00,4.20,849.80,0.00,849.80,100.00%,0.00
+A2. Creamy Tom Yum (Large),A2L,Spicy Mains,10.000,80.00,0.000,0.00,0.00,80.00,0.00,80.00,100.00%,0.00
+A3. Northern Thai Pork Ribs Soup (Large),A3L,Spicy Mains,3.000,30.00,0.000,0.00,0.00,30.00,0.00,30.00,100.00%,0.00
+A3. Northern Thai Pork Ribs Soup (Tasting),A3T,Spicy Mains,27.000,108.00,0.000,0.00,0.00,108.00,0.00,108.00,100.00%,0.00
+A3. Northern Thai Pork Ribs Soup (Regular),A3R,Spicy Mains,345.000,2416.40,1.000,7.00,32.97,2376.43,0.00,2376.43,100.00%,0.00
+A4. Mala Minced Pork Soup (Tasting),A4T,Spicy Mains,6.000,18.00,0.000,0.00,0.30,17.70,0.00,17.70,100.00%,0.00
+A4. Mala Minced Pork Soup (Large),A4L,Spicy Mains,3.000,24.00,0.000,0.00,0.00,24.00,0.00,24.00,100.00%,0.00
+A4. Mala Minced Pork Soup (Regular),A4R,Spicy Mains,65.000,390.00,0.000,0.00,1.20,388.80,0.00,388.80,100.00%,0.00
+A5. Thai Bak Chor Mee (Tasting),A5T,Spicy Mains,3.000,9.00,0.000,0.00,0.00,9.00,0.00,9.00,100.00%,0.00
+A5. Thai Bak Chor Mee (Large),A5L,Spicy Mains,5.000,41.00,0.000,0.00,0.00,41.00,0.00,41.00,100.00%,0.00
+A5. Thai Bak Chor Mee (Regular),A5R,Spicy Mains,122.000,736.00,0.000,0.00,6.00,730.00,0.00,730.00,100.00%,0.00
+A6. Tom Yum Gung (Tasting),A6T,Spicy Mains,3.000,12.00,0.000,0.00,0.40,11.60,0.00,11.60,100.00%,0.00
+A6. Tom Yum Gung (Large),A6L,Spicy Mains,3.000,30.00,0.000,0.00,0.00,30.00,0.00,30.00,100.00%,0.00
+A6. Tom Yum Gung (Regular),A6R,Spicy Mains,54.000,378.00,0.000,0.00,0.70,377.30,0.00,377.30,100.00%,0.00
+A7. Tom Yum Pork (Tasting),A7T,Spicy Mains,3.000,9.00,0.000,0.00,0.30,8.70,0.00,8.70,100.00%,0.00
+A7. Tom Yum Pork (Large),A7L,Spicy Mains,5.000,40.00,0.000,0.00,0.00,40.00,0.00,40.00,100.00%,0.00
+A7. Tom Yum Pork (Regular),A7R,Spicy Mains,78.000,468.00,0.000,0.00,3.00,465.00,0.00,465.00,100.00%,0.00
+A8. Thai Stewed Chicken Soup (Large),A8L,Non Spicy Mains,2.000,16.00,0.000,0.00,0.00,16.00,0.00,16.00,100.00%,0.00
+A8. Thai Stewed Chicken Soup (Tasting),A8T,Non Spicy Mains,16.000,48.00,0.000,0.00,0.00,48.00,0.00,48.00,100.00%,0.00
+A8. Thai Stewed Chicken Soup (Regular),A8R,Non Spicy Mains,83.000,499.70,0.000,0.00,6.40,493.30,0.00,493.30,100.00%,0.00
+A9. Thai Collagen Porridge (Tasting),A9T,Non Spicy Mains,10.000,30.00,0.000,0.00,0.00,30.00,0.00,30.00,100.00%,0.00
+A9. Thai Collagen Porridge (Regular),A9R,Non Spicy Mains,47.000,286.00,0.000,0.00,1.20,284.80,0.00,284.80,100.00%,0.00
+B1. Mixed Platter (c. 3 Pax),B1c,Sides 1,15.000,255.00,0.000,0.00,18.32,236.68,0.00,236.68,100.00%,0.00
+B1. Mixed Platter (a. 1 Pax),B1a,Sides 1,43.000,301.00,0.000,0.00,10.50,290.50,0.00,290.50,100.00%,0.00
+B1. Mixed Platter (b. 2 Pax),B1b,Sides 1,53.000,636.00,0.000,0.00,3.60,632.40,0.00,632.40,100.00%,0.00
+B10. Basil Pork,B10,Sides 2,121.000,701.80,0.000,0.00,2.32,699.48,0.00,699.48,100.00%,0.00
+B11. Stewed Chicken Feet,B11,Sides 1,19.000,72.20,0.000,0.00,0.38,71.82,0.00,71.82,100.00%,0.00
+B2. Pork Skewers (Mu Ping) (a. 3 Pcs),B2a,Sides 1,61.000,353.80,0.000,0.00,8.12,345.68,0.00,345.68,100.00%,0.00
+B2. Pork Skewers (Mu Ping) (b. 1 Pc),B2b,Sides 1,29.000,58.00,0.000,0.00,0.00,58.00,0.00,58.00,100.00%,0.00
+B4. Grilled Pork Cheek (Small),B4a,Sides 1,106.000,477.00,0.000,0.00,1.80,475.20,0.00,475.20,100.00%,0.00
+B4. Grilled Pork Cheek (Large),B4b,Sides 1,46.000,345.00,0.000,0.00,1.50,343.50,0.00,343.50,100.00%,0.00
+B5. Lemongrass Chicken (a. Small),B5a,Sides 1,40.000,160.00,0.000,0.00,0.00,160.00,0.00,160.00,100.00%,0.00
+B5. Lemongrass Chicken (b. Large),B5b,Sides 1,34.000,204.00,0.000,0.00,0.00,204.00,0.00,204.00,100.00%,0.00
+B6. Vermicelli Salad,B6,Sides 2,1.000,5.00,0.000,0.00,0.00,5.00,0.00,5.00,100.00%,0.00
+B7. Papaya Salad,B7,Sides 2,53.000,265.00,0.000,0.00,5.50,259.50,0.00,259.50,100.00%,0.00
+B8. Spicy Pork Salad,B8,Sides 2,11.000,63.80,0.000,0.00,0.58,63.22,0.00,63.22,100.00%,0.00
+B9. Spicy Pork Slice with Lime,B9,Sides 2,6.000,34.80,0.000,0.00,5.80,29.00,0.00,29.00,100.00%,0.00
+C1. Aurora (Regular),C1R,Cold Drinks,68.000,258.40,0.000,0.00,1.52,256.88,0.00,256.88,100.00%,0.00
+C1. Aurora (Mini),C1M,Cold Drinks,24.000,67.20,0.000,0.00,3.36,63.84,0.00,63.84,100.00%,0.00
+C10. Thai Iced Lemon Tea (Regular),C10R,Cold Drinks,16.000,48.00,0.000,0.00,0.00,48.00,0.00,48.00,100.00%,0.00
+C10. Thai Iced Lemon Tea (Mini),C10M,Cold Drinks,2.000,4.00,0.000,0.00,0.00,4.00,0.00,4.00,100.00%,0.00
+C11. Iced Lime Juice (Regular),C11R,Cold Drinks,14.000,42.00,0.000,0.00,0.90,41.10,0.00,41.10,100.00%,0.00
+C11. Iced Lime Juice (Mini),C11M,Cold Drinks,2.000,4.00,0.000,0.00,0.00,4.00,0.00,4.00,100.00%,0.00
+C13. Thai Pink Milk (Regular),C13R,Cold Drinks,6.000,18.00,0.000,0.00,0.30,17.70,0.00,17.70,100.00%,0.00
+C13. Thai Pink Milk (Mini),C13M,Cold Drinks,1.000,2.00,0.000,0.00,0.00,2.00,0.00,2.00,100.00%,0.00
+C14. Hot Thai Tea,C14,Hot Drinks,82.000,147.60,0.000,0.00,1.98,145.62,0.00,145.62,100.00%,0.00
+C15. Hot Thai Black Tea,C15,Hot Drinks,9.000,16.20,0.000,0.00,0.00,16.20,0.00,16.20,100.00%,0.00
+C16. Hot Thai Black Coffee,C16,Hot Drinks,12.000,21.60,0.000,0.00,0.00,21.60,0.00,21.60,100.00%,0.00
+C17. Hot Thai Coffee,C17,Hot Drinks,19.000,34.20,0.000,0.00,0.00,34.20,0.00,34.20,100.00%,0.00
+C18. Hot Thai Milo,C18,Hot Drinks,9.000,16.20,1.000,1.80,0.18,14.22,0.00,14.22,100.00%,0.00
+C19. Hot Thai Lemon Tea,C19,Hot Drinks,7.000,12.60,0.000,0.00,0.00,12.60,0.00,12.60,100.00%,0.00
+C2. Thai Green Tea (Regular),C2R,Cold Drinks,50.000,205.00,0.000,0.00,0.81,204.19,0.00,204.19,100.00%,0.00
+C2. Thai Green Tea (Mini),C2M,Cold Drinks,22.000,61.00,0.000,0.00,0.00,61.00,0.00,61.00,100.00%,0.00
+C20. Hot Lime Juice,C20,Hot Drinks,7.000,12.60,0.000,0.00,0.00,12.60,0.00,12.60,100.00%,0.00
+C21. Hot Lemongrass,C21,Hot Drinks,50.000,90.00,0.000,0.00,2.48,87.52,0.00,87.52,100.00%,0.00
+C3. Lemongrass (Mini),C3M,Cold Drinks,30.000,60.00,0.000,0.00,2.00,58.00,0.00,58.00,100.00%,0.00
+C3. Lemongrass (Regular),C3R,Cold Drinks,123.000,369.00,0.000,0.00,0.90,368.10,0.00,368.10,100.00%,0.00
+C4. Thai Iced Tea (Regular),C4R,Cold Drinks,336.000,1120.00,0.000,0.00,5.34,1114.66,0.00,1114.66,100.00%,0.00
+C4. Thai Iced Tea (Mini),C4M,Cold Drinks,40.000,89.00,0.000,0.00,2.00,87.00,0.00,87.00,100.00%,0.00
+C5. Pink Soda (Regular),C5R,Cold Drinks,22.000,66.00,0.000,0.00,0.30,65.70,0.00,65.70,100.00%,0.00
+C5. Pink Soda (Mini),C5M,Cold Drinks,5.000,10.00,0.000,0.00,0.00,10.00,0.00,10.00,100.00%,0.00
+C6. Thai Iced Black Tea (Regular),C6R,Cold Drinks,7.000,21.00,0.000,0.00,0.00,21.00,0.00,21.00,100.00%,0.00
+C6. Thai Iced Black Tea (Mini),C6M,Cold Drinks,2.000,4.00,0.000,0.00,0.00,4.00,0.00,4.00,100.00%,0.00
+C7. Thai Iced Black Coffee (Regular),C7R,Cold Drinks,4.000,12.00,0.000,0.00,0.23,11.77,0.00,11.77,100.00%,0.00
+C7. Thai Iced Black Coffee (Mini),C7M,Cold Drinks,2.000,4.00,0.000,0.00,0.00,4.00,0.00,4.00,100.00%,0.00
+C8. Thai Iced Coffee (Regular),C8R,Cold Drinks,21.000,66.00,0.000,0.00,0.00,66.00,0.00,66.00,100.00%,0.00
+C8. Thai Iced Coffee (Mini),C8M,Cold Drinks,5.000,10.00,0.000,0.00,0.00,10.00,0.00,10.00,100.00%,0.00
+C9. Iced Milo (Regular),C9R,Cold Drinks,4.000,12.00,0.000,0.00,0.00,12.00,0.00,12.00,100.00%,0.00
+C9. Iced Milo (Mini),C9M,Cold Drinks,4.000,8.00,1.000,2.00,0.00,6.00,0.00,6.00,100.00%,0.00
+Crispy Pork,10059,Products,34.000,238.00,0.000,0.00,0.55,237.45,0.00,237.45,100.00%,0.00
+D1. Mango Sticky Rice (Regular),D1R,Desserts,42.000,243.60,0.000,0.00,1.16,242.44,0.00,242.44,100.00%,0.00
+D1. Mango Sticky Rice (Mini),D1M,Desserts,15.000,30.00,0.000,0.00,2.00,28.00,0.00,28.00,100.00%,0.00
+D2. Red Ruby (Mini),D2M,Desserts,37.000,55.50,0.000,0.00,0.30,55.20,0.00,55.20,100.00%,0.00
+D2. Red Ruby (Regular),D2R,Desserts,58.000,162.40,0.000,0.00,0.56,161.84,0.00,161.84,100.00%,0.00
+D3. Candy Floss Wraps (Roti Sai Mai) (Regular),D3R,Desserts,28.000,112.00,0.000,0.00,0.80,111.20,0.00,111.20,100.00%,0.00
+D3. Candy Floss Wraps (Roti Sai Mai) (Mini),D3M,Desserts,37.000,66.60,0.000,0.00,1.98,64.62,0.00,64.62,100.00%,0.00
+D4. Mango Sago (Regular),D4R,Desserts,11.000,41.80,0.000,0.00,0.38,41.42,0.00,41.42,100.00%,0.00
+D4. Mango Sago (Mini),D4M,Desserts,14.000,25.20,0.000,0.00,1.80,23.40,0.00,23.40,100.00%,0.00
+Rice Cracker,10049,Products,30.000,180.00,1.000,6.00,0.00,174.00,0.00,174.00,100.00%,0.00
+Soft Drinks,SD1,Cold Drinks,19.000,28.50,0.000,0.00,0.15,28.35,0.00,28.35,100.00%,0.00
+Water,W1,Cold Drinks,12.000,18.00,0.000,0.00,0.00,18.00,0.00,18.00,100.00%,0.00
+i. Half Egg,i,Add Ons,3.000,2.10,0.000,0.00,0.00,2.10,0.00,2.10,100.00%,0.00
+ii. Soup,ii,Add Ons,5.000,5.00,0.000,0.00,1.00,4.00,0.00,4.00,100.00%,0.00
+iii. Rice,iii,Sides 1,240.000,240.00,1.000,1.00,0.70,238.30,0.00,238.30,100.00%,0.00
+xiii. Noodles Soup,xiii,Add Ons,12.000,30.00,0.000,0.00,0.00,30.00,0.00,30.00,100.00%,0.00
